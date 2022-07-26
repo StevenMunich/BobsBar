@@ -21,10 +21,11 @@ nav {
 	font-weight: bold;
 }
 nav ul{
+	font-size:36px;
 	list-style-type: none;
 }
 nav a{text-decoration: none;}
-main { margin-left: 400px;
+main { margin-left: 600px;
 	padding: 10px;
 	background-color:  #FFFFFF;
 }
